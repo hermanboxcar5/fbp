@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  status = 200
+  to = "https://facebook.com/:splat"
+  force = false
